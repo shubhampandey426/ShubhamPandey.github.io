@@ -1,7 +1,7 @@
 # Data Science Projects
 
 ## Classification Using AdaBoost
-<(https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/Classification%20Using%20Adaboost%20.ipynb)">
+<a href="https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/Classification%20Using%20Adaboost%20.ipynb">AdaBoost Code</a>
 
 > AdaBoost is a adaptive boosting technique where model creates sequence of weak learner combined to create a strong model.
 >
