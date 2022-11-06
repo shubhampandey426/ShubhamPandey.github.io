@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Data Science Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Classification Using AdaBoost
+
+-----------------------------------------
 
 ## Header 2
 
@@ -105,11 +107,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Shubham Pandey</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1997</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>India</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
