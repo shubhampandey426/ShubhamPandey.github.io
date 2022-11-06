@@ -1,20 +1,9 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Data Science Projects
 
 ## Classification Using AdaBoost
 
------------------------------------------
+> AdaBoost is a adaptive boosting technique where model creates sequence of weak learner combined to create a strong model.
+>
 
 ## Header 2
 
