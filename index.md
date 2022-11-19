@@ -1,5 +1,8 @@
 # Data Science Projects
 
+## EDA - Exploratry Data Analysis
+<a href="https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/EDA-%20loan%20application.ipynb">EDA Code</a>
+
 ## Classification Using AdaBoost
 <a href="https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/Classification%20Using%20Adaboost%20.ipynb">AdaBoost Code</a>
 
