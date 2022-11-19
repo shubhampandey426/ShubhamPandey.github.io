@@ -4,6 +4,7 @@
 <a href="https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/EDA-%20loan%20application.ipynb">EDA Code</a>
 
 <img scr="https://github.com/shubhampandey426/ShubhamPandey.github.io/blob/main/Images/EDA%20image.png">
+![Octocat](https://github.com/shubhampandey426/ShubhamPandey.github.io/blob/main/Images/EDA%20image.png)
 
 ## Classification Using AdaBoost
 <a href="https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/Classification%20Using%20Adaboost%20.ipynb">AdaBoost Code</a>
