@@ -4,11 +4,13 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/EDA-%20loan%20application.ipynb)
 <center><img src="Images/EDA image.png"/></center>
 
+## Linear Regression
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/Linear%20Regression.ipynb)
+<center><img src="Images/Regression.png"/></center>
+
 ## Classification Using AdaBoost
 > AdaBoost is a adaptive boosting technique where model creates sequence of weak learner combined to create a strong model.
->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/EDA-%20loan%20application.ipynb)
-<center><img src="Images/Regression.png"/></center>
+
 
 ## Header 2
 
