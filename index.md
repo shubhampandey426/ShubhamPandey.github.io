@@ -1,6 +1,8 @@
 # Data Science Projects
 
 ## EDA - Exploratry Data Analysis
+> Exploratory Data Analysis (EDA) is an approach to analyze the data using visual techniques. It is used to discover trends, patterns, overall to understand the data. We visualize the data, check for outliers and missing value and handle them accordingly. As machine learning models tend to perform badly.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shubhampandey426/My-Data-Science-Portfolio/blob/master/EDA-%20loan%20application.ipynb)
 <center><img src="Images/EDA image.png"/></center>
 
